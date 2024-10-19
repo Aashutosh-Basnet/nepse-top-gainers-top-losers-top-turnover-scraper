@@ -1,0 +1,32 @@
+[
+    {
+        "name": "USHL",
+        "LTP": "820.00",
+        "Pt. change": "-44.90",
+        "% change": "-5.19"
+    },
+    {
+        "name": "MSHL",
+        "LTP": "921.20",
+        "Pt. change": "-48.80",
+        "% change": "-5.03"
+    },
+    {
+        "name": "SLBSL",
+        "LTP": "1,431.10",
+        "Pt. change": "-66.90",
+        "% change": "-4.47"
+    },
+    {
+        "name": "SBID89",
+        "LTP": "1,045.00",
+        "Pt. change": "-42.20",
+        "% change": "-3.88"
+    },
+    {
+        "name": "SMB",
+        "LTP": "1,785.00",
+        "Pt. change": "-63.00",
+        "% change": "-3.41"
+    }
+]
